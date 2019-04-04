@@ -1,4 +1,4 @@
-![alt text]( "Logo Title Text 1")
+![alt text](https://github.com/charles-lang/syllabus/blob/master/graph.gif "Logo Title Text 1")
 
 # Advanced JavaScript syllabus
 
