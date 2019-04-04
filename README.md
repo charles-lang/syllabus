@@ -1,5 +1,3 @@
-![alt text](https://github.com/charles-lang/syllabus/blob/master/graph.gif "Logo Title Text 1")
-
 # Advanced JavaScript syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/master/meta.md) document.***
